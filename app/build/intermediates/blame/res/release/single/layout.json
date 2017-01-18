@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/materi.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/materi.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/materi_ahli.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/materi_ahli.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/hitung4.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/hitung4.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/splash.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/materi_masalah_cnt.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/materi_masalah_cnt.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/materi_ayat.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/materi_ayat.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/hitung1.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/hitung1.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/help_materi.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/help_materi.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/materi_cnt.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/materi_cnt.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/help_hitung.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/help_hitung.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/hitung3.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/hitung3.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/materi_masalah.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/materi_masalah.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/hitung_hasil.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/hitung_hasil.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/hitung6.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/hitung6.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/hitung2.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/hitung2.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/hitung5.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/hitung5.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/act_help.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/act_help.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/materi_ahli_cnt.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/materi_ahli_cnt.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/help.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/materi_pohon.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/materi_pohon.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/layout/about.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/layout/about.xml"
+    }
+]

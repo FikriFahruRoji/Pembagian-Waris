@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/zoom_out.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/appear.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/appear.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/enter_from_bottom.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/enter_from_bottom.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/hitung_disappear.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/hitung_disappear.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/slide_from_left.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/slide_from_left.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/fade_and_scale_in.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/fade_and_scale_in.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/slide_to_right.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/slide_to_right.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/hitung_appear.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/hitung_appear.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/exit_to_up.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/exit_to_up.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/hand_up.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/hand_up.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/slide_to_left.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/slide_to_left.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/disappear.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/disappear.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/slide_from_right.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/slide_from_right.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/exit_to_bottom.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/exit_to_bottom.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/zoom_in.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/overshoot.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/overshoot.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/anim/stand.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/anim/stand.xml"
+    }
+]

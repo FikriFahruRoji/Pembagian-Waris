@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/bg_splash.jpg",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/bg_splash.jpg"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung6.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung6.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_sound_stop.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_sound_stop.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/about.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/about.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/bg_home.jpg",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/bg_home.jpg"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_about.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_about.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/cell_shape.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/cell_shape.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung_pressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung_pressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/dasar_pressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/dasar_pressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung7.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung7.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung1.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung1.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_trans.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_trans.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/qs_4_12.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/qs_4_12.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_cust_unpressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_cust_unpressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_help.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_help.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/pohon.jpg",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/pohon.jpg"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_hitung.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_hitung.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_custt.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_custt.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/bg_help.jpg",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/bg_help.jpg"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_cust.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_cust.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_custt_unpressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_custt_unpressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/materi1.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/materi1.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/bg_trans.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/bg_trans.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/materi2.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/materi2.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/bg_materi.jpg",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/bg_materi.jpg"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/bg_hitung.jpg",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/bg_hitung.jpg"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/qs_4_11.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/qs_4_11.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_cust_pressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_cust_pressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung3.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung3.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/dinar.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/dinar.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung4.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung4.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/qs_4_176.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/qs_4_176.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/dasar.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/dasar.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/materi3.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/materi3.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_nav.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_nav.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hand.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hand.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/help_pressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/help_pressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung2.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung2.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_sound_play.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_sound_play.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung8.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung8.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/hitung5.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/hitung5.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_sound_pause.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_sound_pause.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/progress_bar.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/progress_bar.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/sttg.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/sttg.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/about_pressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/about_pressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_custt_pressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_custt_pressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/button_materi.xml",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/button_materi.xml"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/debug/drawable/bg_materi_cnt.jpg",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable/bg_materi_cnt.jpg"
+    }
+]

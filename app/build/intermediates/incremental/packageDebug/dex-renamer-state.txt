@@ -1,0 +1,7 @@
+#Mon Jan 09 05:07:08 WIB 2017
+base.0=/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_391a81cdff6cca873eb97342226583358653dc10
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f85ed1515d53a22160e071e8ec39f4131e899893/classes.dex
+base.1=/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f85ed1515d53a22160e071e8ec39f4131e899893
+file.0=/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_391a81cdff6cca873eb97342226583358653dc10/classes.dex

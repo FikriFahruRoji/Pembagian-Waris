@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_stop.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable-xxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_stop_pressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable-xxhdpi/ic_stop_pressed.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_pause.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable-xxhdpi/ic_pause.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_play.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable-xxhdpi/ic_play.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_play_pressed.png",
+        "source": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/drawable-xxhdpi/ic_play_pressed.png"
+    }
+]

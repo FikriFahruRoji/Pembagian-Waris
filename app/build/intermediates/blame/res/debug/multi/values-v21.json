@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "/home/fikri/Documents/AndroidStudioProjects/Waris/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 710
+                    }
+                }
+            }
+        ]
+    }
+]

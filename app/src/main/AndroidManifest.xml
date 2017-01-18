@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.barkost.waris"
+    android:versionCode="1"
+    android:versionName="0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="id.barkost.waris.Splash"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="id.barkost.waris.MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.ActHelp"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.About"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.Help"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.Hitung1"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.Hitung2"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.Hitung3"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.Hitung4"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.Hitung5"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.Hitung6"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.HitungHasil"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.Materi"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.MateriCnt"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.MateriAhli"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.MateriAyat"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.MateriAhliCnt"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.MateriMasalah"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.MateriMasalahCnt"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity android:name="id.barkost.waris.MateriPohon" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.HelpHitung"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="id.barkost.waris.HelpMateri"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>
